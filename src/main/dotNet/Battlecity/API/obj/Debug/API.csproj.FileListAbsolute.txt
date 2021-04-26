@@ -1,0 +1,9 @@
+C:\Users\Misha\Downloads\battlecity-servers\src\main\dotNet\Battlecity\API\bin\Debug\API.dll
+C:\Users\Misha\Downloads\battlecity-servers\src\main\dotNet\Battlecity\API\bin\Debug\API.pdb
+C:\Users\Misha\Downloads\battlecity-servers\src\main\dotNet\Battlecity\API\bin\Debug\websocket-sharp.dll
+C:\Users\Misha\Downloads\battlecity-servers\src\main\dotNet\Battlecity\API\bin\Debug\websocket-sharp.xml
+C:\Users\Misha\Downloads\battlecity-servers\src\main\dotNet\Battlecity\API\obj\Debug\API.csprojAssemblyReference.cache
+C:\Users\Misha\Downloads\battlecity-servers\src\main\dotNet\Battlecity\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+C:\Users\Misha\Downloads\battlecity-servers\src\main\dotNet\Battlecity\API\obj\Debug\API.csproj.CopyComplete
+C:\Users\Misha\Downloads\battlecity-servers\src\main\dotNet\Battlecity\API\obj\Debug\API.dll
+C:\Users\Misha\Downloads\battlecity-servers\src\main\dotNet\Battlecity\API\obj\Debug\API.pdb
